@@ -1,0 +1,20 @@
+cpp-blockchain/
+├── README.md
+├── CMakeLists.txt
+├── .gitignore
+├── Makefile
+├── Dockerfile
+├── src/
+│ ├── main.cpp
+│ ├── node.cpp
+│ ├── block.cpp
+│ └── blockchain.cpp
+├── include/
+│ ├── block.hpp
+│ └── blockchain.hpp
+├── third_party/
+│ └── httplib.h
+├── tests/
+│ └── chain_test.cpp
+└── scripts/
+└── run.sh
